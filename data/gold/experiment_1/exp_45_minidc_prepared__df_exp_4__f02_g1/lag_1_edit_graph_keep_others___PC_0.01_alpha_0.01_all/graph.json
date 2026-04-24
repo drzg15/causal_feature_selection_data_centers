@@ -1,0 +1,161 @@
+{
+    "(0) cpu_temp_1 ": [
+        [
+            "cpu_temp_1",
+            -1
+        ],
+        [
+            "water_temp_in_HEX",
+            -1
+        ],
+        [
+            "cpu_temp_2",
+            -1
+        ],
+        [
+            "dc_pump",
+            -1
+        ]
+    ],
+    "(1) cpu_temp_2 ": [
+        [
+            "cpu_temp_2",
+            -1
+        ],
+        [
+            "cpu_temp_1",
+            -1
+        ]
+    ],
+    "(2) env_humidity ": [
+        [
+            "env_temp",
+            -2
+        ],
+        [
+            "dc_fan",
+            -2
+        ]
+    ],
+    "(3) env_pressure ": [
+        [
+            "env_pressure",
+            -2
+        ],
+        [
+            "env_pressure",
+            -3
+        ],
+        [
+            "env_temp",
+            -1
+        ]
+    ],
+    "(4) env_temp ": [],
+    "(5) dc_fan ": [
+        [
+            "dc_fan",
+            -1
+        ]
+    ],
+    "(6) dc_pump ": [],
+    "(7) house_fan ": [
+        [
+            "house_fan",
+            -1
+        ],
+        [
+            "dc_fan",
+            -5
+        ]
+    ],
+    "(8) house_pump ": [
+        [
+            "house_pump",
+            -4
+        ],
+        [
+            "env_humidity",
+            -2
+        ],
+        [
+            "env_temp",
+            -2
+        ]
+    ],
+    "(9) stress_ctrl ": [],
+    "(10) water_temp_house ": [
+        [
+            "env_temp",
+            -4
+        ],
+        [
+            "house_fan",
+            -1
+        ],
+        [
+            "cpu_temp_2",
+            -1
+        ],
+        [
+            "water_temp_in_HEX",
+            -1
+        ],
+        [
+            "house_pump",
+            -3
+        ],
+        [
+            "cpu_temp_1",
+            -1
+        ],
+        [
+            "water_temp_house",
+            -2
+        ]
+    ],
+    "(11) water_temp_in_HEX ": [
+        [
+            "water_temp_house",
+            -1
+        ],
+        [
+            "cpu_temp_2",
+            -2
+        ],
+        [
+            "water_temp_out_HEX",
+            -3
+        ],
+        [
+            "water_temp_house",
+            -2
+        ],
+        [
+            "cpu_temp_2",
+            -4
+        ],
+        [
+            "dc_pump",
+            -1
+        ],
+        [
+            "cpu_temp_1",
+            -2
+        ]
+    ],
+    "(12) water_temp_out_HEX ": [
+        [
+            "water_temp_out_HEX",
+            -1
+        ],
+        [
+            "cpu_temp_1",
+            -1
+        ],
+        [
+            "dc_pump",
+            -2
+        ]
+    ]
+}

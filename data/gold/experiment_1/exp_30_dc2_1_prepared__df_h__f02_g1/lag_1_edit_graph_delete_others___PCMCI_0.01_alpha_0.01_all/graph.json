@@ -1,0 +1,121 @@
+{
+    "(0) cool_val_U1 ": [],
+    "(1) cool_val_U3 ": [],
+    "(2) cool_val_U4 ": [],
+    "(3) fan_U4 ": [],
+    "(4) hum_U1 ": [],
+    "(5) hum_U2 ": [],
+    "(6) hum_U3 ": [],
+    "(7) hum_U4 ": [],
+    "(8) line_A_watt ": [],
+    "(9) line_B_C_watt ": [],
+    "(10) line_D_E_watt ": [],
+    "(11) line_F_G_watt ": [],
+    "(12) line_H_I_watt ": [],
+    "(13) temp_in_U1 ": [],
+    "(14) temp_in_U2 ": [],
+    "(15) temp_in_U3 ": [],
+    "(16) temp_in_U4 ": [
+        [
+            "fan_U4",
+            -4
+        ],
+        [
+            "line_F_G_watt",
+            -3
+        ],
+        [
+            "line_H_I_watt",
+            -2
+        ],
+        [
+            "temp_in_U4",
+            -1
+        ],
+        [
+            "global_tilted_irradiance",
+            -4
+        ],
+        [
+            "temperature_2m",
+            -1
+        ],
+        [
+            "temp_out_U4",
+            -1
+        ],
+        [
+            "temperature_2m",
+            -3
+        ],
+        [
+            "global_tilted_irradiance",
+            -3
+        ],
+        [
+            "temperature_2m",
+            -2
+        ]
+    ],
+    "(17) temp_out_U1 ": [],
+    "(18) temp_out_U2 ": [],
+    "(19) temp_out_U3 ": [],
+    "(20) temp_out_U4 ": [
+        [
+            "cool_val_U4",
+            -1
+        ],
+        [
+            "line_F_G_watt",
+            -1
+        ],
+        [
+            "line_H_I_watt",
+            -3
+        ],
+        [
+            "line_H_I_watt",
+            -4
+        ],
+        [
+            "temperature_2m",
+            -2
+        ],
+        [
+            "temperature_2m",
+            -3
+        ],
+        [
+            "temp_out_U4",
+            -1
+        ],
+        [
+            "global_tilted_irradiance",
+            -4
+        ],
+        [
+            "temp_out_U4",
+            -4
+        ],
+        [
+            "temp_in_U4",
+            -5
+        ],
+        [
+            "temp_out_U4",
+            -3
+        ],
+        [
+            "fan_U4",
+            -1
+        ]
+    ],
+    "(21) temperature_2m ": [],
+    "(22) relative_humidity_2m ": [],
+    "(23) apparent_temperature ": [],
+    "(24) precipitation ": [],
+    "(25) wind_speed_10m ": [],
+    "(26) wind_direction_100m ": [],
+    "(27) global_tilted_irradiance ": [],
+    "(28) hour ": []
+}

@@ -1,0 +1,10 @@
+{
+    "target": [
+        "water_temp_house"
+    ],
+    "tau": 5,
+    "setpoint_change": "intervention_id",
+    "other_info": "edited",
+    "lagged_already": false,
+    "changepoint_removal": true
+}

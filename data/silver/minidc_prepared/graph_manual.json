@@ -1,0 +1,24 @@
+{
+    "water_temp_house": [
+        [
+            "water_temp_house",
+            -1
+        ],
+        [
+            "house_fan",
+            -1
+        ],
+        [
+            "water_temp_in_HEX",
+            -1
+        ],
+        [
+            "env_temp",
+            -1
+        ],
+        [
+            "house_pump",
+            -1
+        ]
+    ]
+}

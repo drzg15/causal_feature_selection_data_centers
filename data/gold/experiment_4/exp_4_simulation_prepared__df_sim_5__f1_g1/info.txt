@@ -1,0 +1,6 @@
+tau = 5
+shape_graph_generator = (12230, 12)
+shape_train = (12230, 13)
+shape_test = (5242, 13)
+extra_info = /home/repos/Datacenter-Data/data/silver/simulation_prepared/df_sim_5.parquet
+errors:

@@ -1,0 +1,38 @@
+{
+    "In_Temp ": [
+        [
+            "In_Temp",
+            -1
+        ],
+        [
+            "Cool_Set",
+            -1
+        ],
+        [
+            "ITE_Ener",
+            -1
+        ],
+        [
+            "IT_Load",
+            -1
+        ],
+        [
+            "Out_Temp",
+            -1
+        ]
+    ],
+    "ITE_Ener ": [
+        [
+            "IT_Load",
+            -1
+        ],
+        [
+            "ITE_Ener",
+            -1
+        ],
+        [
+            "In_Temp",
+            -1
+        ]
+    ]
+}

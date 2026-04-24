@@ -1,0 +1,7 @@
+tau = 5
+shape_graph_generator = (3256, 33)
+shape_train = (3256, 34)
+shape_test = (1746, 34)
+extra_info = /home/repos/Datacenter-Data/data/silver/dc2_1_prepared/df_h.parquet
+Dropped highly collinear columns for varligam: ['hum_U3']
+errors:

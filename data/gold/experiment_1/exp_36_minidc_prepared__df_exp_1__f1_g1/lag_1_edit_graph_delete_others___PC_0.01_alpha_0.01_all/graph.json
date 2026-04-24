@@ -1,0 +1,47 @@
+{
+    "(0) cpu_temp_1 ": [],
+    "(1) cpu_temp_2 ": [],
+    "(2) env_humidity ": [],
+    "(3) env_pressure ": [],
+    "(4) env_temp ": [],
+    "(5) dc_pump ": [],
+    "(6) house_fan ": [],
+    "(7) house_pump ": [],
+    "(8) stress_ctrl ": [],
+    "(9) water_temp_house ": [
+        [
+            "env_temp",
+            -2
+        ],
+        [
+            "house_pump",
+            -3
+        ],
+        [
+            "water_temp_house",
+            -1
+        ],
+        [
+            "water_temp_in_HEX",
+            -1
+        ],
+        [
+            "water_temp_in_HEX",
+            -2
+        ],
+        [
+            "house_fan",
+            -2
+        ],
+        [
+            "water_temp_house",
+            -2
+        ],
+        [
+            "water_temp_in_HEX",
+            -4
+        ]
+    ],
+    "(10) water_temp_in_HEX ": [],
+    "(11) water_temp_out_HEX ": []
+}

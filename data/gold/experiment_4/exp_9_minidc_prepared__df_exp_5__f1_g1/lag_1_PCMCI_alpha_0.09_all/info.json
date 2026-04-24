@@ -1,0 +1,11 @@
+{
+    "target": [
+        "water_temp_house"
+    ],
+    "tau": 5,
+    "setpoint_change": "intervention_id",
+    "other_info": "PCMCI_alpha_0.09",
+    "lagged_already": false,
+    "changepoint_removal": true,
+    "time_graph_generation": 7.711834907531738
+}

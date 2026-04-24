@@ -1,0 +1,51 @@
+{
+    "(0) In_Temp ": [
+        [
+            "Out_Temp",
+            -1
+        ],
+        [
+            "In_Temp",
+            -1
+        ],
+        [
+            "Cool_Set",
+            -2
+        ],
+        [
+            "ITE_Ener",
+            -1
+        ],
+        [
+            "IT_Load",
+            -1
+        ]
+    ],
+    "(1) In_Hum ": [],
+    "(2) HVAC_Ener ": [],
+    "(3) ITE_Ener ": [
+        [
+            "IT_Load",
+            -2
+        ],
+        [
+            "IT_Load",
+            -1
+        ],
+        [
+            "ITE_Ener",
+            -2
+        ],
+        [
+            "In_Temp",
+            -5
+        ]
+    ],
+    "(4) Hour ": [],
+    "(5) Out_Temp ": [],
+    "(6) Out_Hum ": [],
+    "(7) Out_Wind ": [],
+    "(8) Out_Wind_Dir ": [],
+    "(9) Cool_Set ": [],
+    "(10) IT_Load ": []
+}

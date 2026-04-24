@@ -1,0 +1,35 @@
+{
+    "(0) cpu_temp_1 ": [],
+    "(1) cpu_temp_2 ": [],
+    "(2) env_humidity ": [],
+    "(3) env_pressure ": [],
+    "(4) env_temp ": [],
+    "(5) water_temp_house ": [
+        [
+            "env_temp",
+            -1
+        ],
+        [
+            "water_temp_in_HEX",
+            -2
+        ],
+        [
+            "water_temp_house",
+            -1
+        ],
+        [
+            "water_temp_house",
+            -3
+        ],
+        [
+            "water_temp_house",
+            -2
+        ],
+        [
+            "water_temp_house",
+            -5
+        ]
+    ],
+    "(6) water_temp_in_HEX ": [],
+    "(7) water_temp_out_HEX ": []
+}

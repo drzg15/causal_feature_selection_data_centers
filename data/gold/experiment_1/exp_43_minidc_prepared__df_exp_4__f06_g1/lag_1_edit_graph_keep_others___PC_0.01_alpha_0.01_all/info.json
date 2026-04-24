@@ -1,0 +1,10 @@
+{
+    "target": [
+        "water_temp_house"
+    ],
+    "tau": 5,
+    "setpoint_change": "intervention_id",
+    "other_info": "edit_graph_keep_others___PC_0.01_alpha_0.01",
+    "lagged_already": false,
+    "changepoint_removal": true
+}

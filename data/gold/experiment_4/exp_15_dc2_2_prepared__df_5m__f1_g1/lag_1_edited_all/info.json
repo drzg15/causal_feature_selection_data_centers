@@ -1,0 +1,11 @@
+{
+    "target": [
+        "temp_in_U4",
+        "temp_out_U4"
+    ],
+    "tau": 5,
+    "setpoint_change": "intervention_id",
+    "other_info": "edited",
+    "lagged_already": false,
+    "changepoint_removal": true
+}

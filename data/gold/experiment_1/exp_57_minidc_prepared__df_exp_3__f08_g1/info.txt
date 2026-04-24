@@ -1,0 +1,7 @@
+tau = 5
+shape_graph_generator = (4623, 14)
+shape_train = (4623, 15)
+shape_test = (2477, 15)
+extra_info = /home/repos/Datacenter-Data/data/silver/minidc_prepared/df_exp_3.parquet
+Dropped highly collinear columns for varligam: ['house_pump']
+errors:

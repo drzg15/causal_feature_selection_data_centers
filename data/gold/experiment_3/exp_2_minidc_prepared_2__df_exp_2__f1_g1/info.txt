@@ -1,0 +1,6 @@
+tau = 5
+shape_graph_generator = (5635, 14)
+shape_train = (5635, 15)
+shape_test = (2415, 15)
+extra_info = /home/repos/Datacenter-Data/data/silver/minidc_prepared_2/df_exp_2.parquet
+errors:

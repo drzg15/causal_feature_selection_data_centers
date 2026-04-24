@@ -1,0 +1,8 @@
+tau = 5
+shape_graph_generator = (814, 33)
+shape_train = (814, 34)
+shape_test = (1746, 34)
+extra_info = /home/repos/Datacenter-Data/data/silver/dc2_1_prepared/df_h.parquet
+Dropped highly collinear columns for varligam: ['hum_U3', 'hum_U4']
+errors:
+No lag values for target temp_in_U4 in graph lag_1_DYNOTEARS_alpha_0.01_all

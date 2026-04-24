@@ -1,0 +1,67 @@
+{
+    "(0) cool_val_U1 ": [],
+    "(1) cool_val_U3 ": [],
+    "(2) cool_val_U4 ": [],
+    "(3) fan_U4 ": [],
+    "(4) hum_U1 ": [],
+    "(5) hum_U2 ": [],
+    "(6) line_A_watt ": [],
+    "(7) line_B_C_watt ": [],
+    "(8) line_D_E_watt ": [],
+    "(9) line_F_G_watt ": [],
+    "(10) line_H_I_watt ": [],
+    "(11) temp_in_U1 ": [],
+    "(12) temp_in_U2 ": [],
+    "(13) temp_in_U3 ": [],
+    "(14) temp_in_U4 ": [
+        [
+            "temp_in_U4",
+            -1
+        ],
+        [
+            "temp_out_U4",
+            -1
+        ],
+        [
+            "fan_U4",
+            -1
+        ],
+        [
+            "line_H_I_watt",
+            -1
+        ],
+        [
+            "line_F_G_watt",
+            -1
+        ]
+    ],
+    "(15) temp_out_U1 ": [],
+    "(16) temp_out_U2 ": [],
+    "(17) temp_out_U3 ": [],
+    "(18) temp_out_U4 ": [
+        [
+            "temp_in_U4",
+            -1
+        ],
+        [
+            "temp_out_U4",
+            -1
+        ],
+        [
+            "fan_U4",
+            -1
+        ],
+        [
+            "cool_val_U4",
+            -1
+        ],
+        [
+            "line_H_I_watt",
+            -1
+        ],
+        [
+            "line_F_G_watt",
+            -1
+        ]
+    ]
+}

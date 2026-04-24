@@ -1,0 +1,11 @@
+{
+    "target": [
+        "temp_in_U4",
+        "temp_out_U4"
+    ],
+    "tau": 5,
+    "setpoint_change": "intervention_id",
+    "other_info": "edit_graph_delete_others___PC_0.01_alpha_0.01",
+    "lagged_already": false,
+    "changepoint_removal": true
+}

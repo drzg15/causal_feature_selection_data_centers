@@ -1,0 +1,13 @@
+{
+    "target": [
+        "flow--t1",
+        "flow--t2",
+        "flow--t3_temp_customer_flow",
+        "flow--t4_temp_customer_return_flow"
+    ],
+    "tau": 5,
+    "setpoint_change": "intervention_id",
+    "other_info": "edit_graph_keep_others___PC_0.01_alpha_0.01",
+    "lagged_already": false,
+    "changepoint_removal": true
+}

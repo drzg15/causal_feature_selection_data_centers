@@ -1,0 +1,7 @@
+tau = 5
+shape_graph_generator = (9784, 12)
+shape_train = (9784, 13)
+shape_test = (5242, 13)
+extra_info = /home/repos/Datacenter-Data/data/silver/simulation_prepared/df_sim_4.parquet
+No constant or collinear columns found for varligam
+errors:

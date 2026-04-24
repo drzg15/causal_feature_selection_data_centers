@@ -1,0 +1,8 @@
+tau = 5
+shape_graph_generator = (5635, 14)
+shape_train = (5635, 15)
+shape_test = (2415, 15)
+extra_info = /home/repos/Datacenter-Data/data/silver/minidc_prepared/df_exp_2.parquet
+No constant or collinear columns found for varligam
+errors:
+No lag values for target water_temp_house in graph lag_1_DYNOTEARS_alpha_0.01_all

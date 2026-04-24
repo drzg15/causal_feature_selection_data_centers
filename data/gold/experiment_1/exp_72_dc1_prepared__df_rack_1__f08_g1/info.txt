@@ -1,0 +1,8 @@
+tau = 5
+shape_graph_generator = (11256, 14)
+shape_train = (11256, 15)
+shape_test = (6030, 15)
+extra_info = /home/repos/Datacenter-Data/data/silver/dc1_prepared/df_rack_1.parquet
+No constant or collinear columns found for varligam
+errors:
+No lag values for target flow--t1 in graph lag_1_VARLINGAM_alpha_0.03_all
