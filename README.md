@@ -22,7 +22,7 @@ This guide describes how to set up and reproduce the experiments for the paper. 
 
 3. **Data availability**
    - Experimental data are located in the `data/silver` folder.
-   - The raw data for **MiniDC** and **simulations** are provided.
+   - The raw data for **MiniDC** and **Simulation** are provided.
    - Due to privacy constraints imposed by data center operators, the raw data for **DC1** and **DC2** are confidential and not provided.  
      However, complete results for all datasets are included.
 
