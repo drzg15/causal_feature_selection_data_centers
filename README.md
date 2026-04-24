@@ -42,6 +42,13 @@ This guide describes how to set up and reproduce the experiments for the paper. 
        3. **`003_causal_ts_predict.py`** – evaluates time-series models (see the next section)  
        4. **`004_evaluation.py`** – analyzes interventions and produces the final aggregated results dataset
 
+5. **Results**
+   - All experiment outputs are stored in the `data/gold` folder **Experiment 1**.
+   - Each experiment is defined by a dataset and a training fraction. A fraction of **1** represents the full training set, while **0.8, 0.6, 0.4, and 0.2** correspond to progressively smaller subsets.
+   - Primary evaluations are conducted using the full dataset (fraction 1). Reduced fractions are used to assess the impact of training size on performance.
+   - For the **0.2 fraction**, it is necessary to set `training_02 = true` in the file `/container/main.py` so that the time-series models have sufficient training data.
+   - Use the notebook **`005_evaluation_visual.ipynb`** to generate all visualizations and tables from the stored results.
+     
 ### Running Time-Series Models
 
 - To run experiments involving time-series models, you must first start the corresponding **Docker container** before running the pipeline.
@@ -53,9 +60,4 @@ This guide describes how to set up and reproduce the experiments for the paper. 
 - **Experiment 3** presents a study on the impact of degrading domain knowledge. The corresponding silver datasets used for this evaluation are located in `silver/dk_evaluation`.
 - **Experiment 4** contains a sensitivity analysis examining variations in the alpha parameter of a causal discovery method.
 
-5. **Results**
-   - All experiment outputs are stored in the `data/gold` folder.
-   - Each experiment is defined by a dataset and a training fraction. A fraction of **1** represents the full training set, while **0.8, 0.6, 0.4, and 0.2** correspond to progressively smaller subsets.
-   - Primary evaluations are conducted using the full dataset (fraction 1). Reduced fractions are used to assess the impact of training size on performance.
-   - For the **0.2 fraction**, it is necessary to set `training_02 = true` in the file `/container/main.py` so that the time-series models have sufficient training data.
-   - Use the notebook **`005_evaluation_visual.ipynb`** to generate all visualizations and tables from the stored results.
+
